@@ -42,9 +42,6 @@ const muiTheme = getMuiTheme({
   },
 });
 
-const ButtonComponent = () => (
-  <RaisedButton label="Login" />
-);
 
 export function App(props) {
   return (
